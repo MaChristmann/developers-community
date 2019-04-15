@@ -1,5 +1,5 @@
 ---
-pagename: Google Dialog Flow
+pagename: Google Dialogflow
 redirect_from:
 sitesection: Documents
 categoryname: "Agent Experience & Bots"
